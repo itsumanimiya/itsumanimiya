@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @itsumanimiya
+- 👀 I’m interested in javascript, frontend, backend development
+- 🌱 I’m currently learning javascript, react.
